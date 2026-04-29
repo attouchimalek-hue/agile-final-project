@@ -1,5 +1,5 @@
 ---
-name: Final Project Stakeholders requirements issue template
+name: user-story.md
 about: This template is for creating Stakeholders requirements as user stories
 title: ''
 labels: ''
